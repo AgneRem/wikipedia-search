@@ -1,0 +1,26 @@
+body {
+  font-family: "Times New Roman";
+  background-image: url('https://worldcore.eu/File/Get/1840703536');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#searchTerm {
+  width: 150px;
+  margin: auto;
+  border-radius: 25px;
+}
+
+#searchTerm:focus{
+  width: 350px;
+}
+
+.btn {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+img {
+  margin-bottom: 3px;
+  height: 150px;
+}
